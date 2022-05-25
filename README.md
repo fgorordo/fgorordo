@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Gorordo
 - 👀 I’m interested in Web Development & Game Development
-- 🌱 I’m currently learning Node.js - Express - MySQL - API's & React 
+- 🌱 I’m currently learning Node - Express - MySQL - API's & React 
 - 💞️ I’m looking to collaborate on any project that accepts a junior
 - 📫 Be in touch (flgorordo@gmail.com || @fergorordo (Twitter))
 
